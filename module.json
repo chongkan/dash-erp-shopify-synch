@@ -1,0 +1,12 @@
+{
+    "name": "ShopifySync",
+    "alias": "Shopify Sync",
+    "description": "",
+    "keywords": [],
+    "priority": 660,
+    "version":3.0,
+    "providers": [
+        "Modules\\ShopifySync\\Providers\\ShopifySyncServiceProvider"
+    ],
+    "files": []
+}

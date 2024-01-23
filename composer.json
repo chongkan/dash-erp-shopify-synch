@@ -1,0 +1,23 @@
+{
+    "name": "attestto/shopifysynch",
+    "description": "",
+    "authors": [
+        {
+            "name": "Shopify Synch v2",
+            "email": "support@attestto.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\ShopifySync\\": ""
+        }
+    }
+}
